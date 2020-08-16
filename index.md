@@ -8,7 +8,7 @@ cover-img: "banner_home_clouds_title6[1].jpg"
 ## Online Worship
 Our ministry is active online at our Facebook page and YouTube channel.
 
-![Coffee and Church](/images/Coffee_and_church.jpg){: width="200px"}
+![Coffee and Church](/images/IMG_1303.JPG){: width="300px"}
 
 ## Upcoming Events
 
