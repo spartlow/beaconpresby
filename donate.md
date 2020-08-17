@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Donate
-cover-img: "banner_home_clouds_title6[1].jpg"
-css: css/override.css
 ---
 
 There are many ways to make a contribution to the church. Caring people donate their time and their unique talents everyday to keep First Presbyterian running. If you are interested in making a monetary donation, there are also a variety of ways to do that. To donate in person, you may add your contribution to the collection basket during Sunday services, or deliver it to 50 Liberty St. Beacon, NY 12508. If you are looking for an easy way to contribute online, we have options listed below.
