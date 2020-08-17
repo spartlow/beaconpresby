@@ -1,7 +1,8 @@
 title: FPC Beacon
 remote_theme: daattali/beautiful-jekyll
 css: css/override.css
-avatar: "images/BeaconPresbySmall_Transparent.png"
+avatar: "images/BeaconPresbySmall.png"
+round-avatar: true
 navbar-links:
   Donate: "donate"
 defaults:
