@@ -15,9 +15,8 @@ You can make a donation to First Presbyterian quickly and easily by using one of
 nav.navbar-custom .navbar-nav li a[href*="donate"] {
   color: black;
   background: none;
-  border-radius: 5px;
   border: 1px solid black;
-  transition: background 300ms, color 300ms;
+  transition: none;
 }
 nav.navbar-custom .navbar-nav li a[href*="donate"]:hover {
   color: gray;
