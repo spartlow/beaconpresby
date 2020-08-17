@@ -11,4 +11,4 @@ There are many ways to make a contribution to the church. Caring people donate t
 
 You can make a donation to First Presbyterian quickly and easily by using one of our online payment options. Make a donation with credit card through Stripe, or set up a bank transfer.
 
-[DONATE NOW](https://beaconpresbychurch.breezechms.com/give/online)
+[DONATE NOW](https://beaconpresbychurch.breezechms.com/give/online) {: btn-green}
