@@ -4,6 +4,7 @@ title: You are welcome here
 subtitle: First Presbyterian Church <em>of</em> Beacon
 cover-img: "banner_home_clouds_title6[1].jpg"
 css: css/override.css
+show-avatar: false
 ---
 
 ## Online Worship
