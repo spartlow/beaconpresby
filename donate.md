@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Donate
 cover-img: "banner_home_clouds_title6[1].jpg"
 ---
