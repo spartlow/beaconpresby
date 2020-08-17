@@ -23,6 +23,30 @@ defaults:
       layout: "page"
       show-avatar: true
       css: css/override.css
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
+social-network-links:
+  email: "office@beaconpresbychurch.com"
+  facebook: BeaconPresbyChurch
+  youtube: user/BeaconPresbyChurch
+  rss: false
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
 markdown: kramdown
 kramdown:
   input: GFM
