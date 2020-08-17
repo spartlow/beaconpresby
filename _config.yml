@@ -15,12 +15,14 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: false # add estimated reading time on all blog posts
+      css: css/override.css
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
       show-avatar: true
+      css: css/override.css
 markdown: kramdown
 kramdown:
   input: GFM
