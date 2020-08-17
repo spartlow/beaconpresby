@@ -28,7 +28,7 @@ defaults:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "office@beaconpresbychurch.com"
-  facebook: BeaconPresbyChurch
+  facebook: FPCBNY
   youtube: user/BeaconPresbyChurch
   rss: false
 #  reddit: yourname
