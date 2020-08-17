@@ -1,7 +1,8 @@
-// Made page wider
+/* Make page wider */
 
 @media (min-width: 1200px) {
   .container-md {
     max-width: 1600px;
   }
 }
+
