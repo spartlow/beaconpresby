@@ -6,3 +6,14 @@
   }
 }
 
+
+/* Support button in navbar */
+.navbar-custom .navbar-nav li a[href*="beaconpresbychurch.breezechms.com/give/online"] {
+  color: white;
+  background: green;
+  transition: background 300ms, color 300ms;
+}
+.navbar-custom .navbar-nav li a[href*="beaconpresbychurch.breezechms.com/give/online"]:hover {
+  background: hotpink;
+  color: #3344bb;
+}
