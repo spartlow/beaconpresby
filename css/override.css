@@ -8,12 +8,12 @@
 
 
 /* Support button in navbar */
-.navbar-custom .navbar-nav li a[href*="beaconpresbychurch.breezechms.com/give/online"] {
+.navbar-custom .navbar-nav li a[href*="donate"] {
   color: white;
   background: green;
   transition: background 300ms, color 300ms;
 }
-.navbar-custom .navbar-nav li a[href*="beaconpresbychurch.breezechms.com/give/online"]:hover {
+.navbar-custom .navbar-nav li a[href*="donate"]:hover {
   background: hotpink;
   color: #3344bb;
 }
