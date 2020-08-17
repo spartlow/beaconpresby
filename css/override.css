@@ -17,3 +17,8 @@
   background: hotpink;
   color: #3344bb;
 }
+@media (min-width: 768px) {
+  .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
+    padding-right: 16px;
+  }
+}
