@@ -17,7 +17,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
       readtime: false # add estimated reading time on all blog posts
       css: css/override.css
-      footer-extra: _includes/footer_extra.html
+      footer-extra: footer_extra.html
   -
     scope:
       path: "" # all files
