@@ -11,10 +11,6 @@ Our ministry is active online at our [Facebook page](http://facebook.com/FPCBNY)
 
 ![Coffee and Church](/images/IMG_1303.JPG){: width="300px"}
 
-## Upcoming Events
-
-Stay up-to-date on what's happening at First Presbyterian by checking out our Facebook page!
-
 ## Our Vision
 
 **Bridging Worlds. Encountering God. Healing Lives.** 
