@@ -9,7 +9,7 @@ show-avatar: false
 ## Online Worship
 Our ministry is active online at our [Facebook page](http://facebook.com/FPCBNY) and [YouTube channel](http://youtube.com/user/BeaconPresbyChurch).
 
-![Coffee and Church](/images/IMG_1303.JPG){: width="300px"}
+[Coffee and Church](/images/IMG_1303.JPG){: width="300px"}
 
 ## Our Vision
 
