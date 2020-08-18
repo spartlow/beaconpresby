@@ -15,7 +15,7 @@ Our ministry is active online at our [Facebook page](http://facebook.com/FPCBNY)
 
 **Bridging Worlds. Encountering God. Healing Lives.** 
 
-First Presbyterian Church is a community of deep roots. We have been worshiping God at the foot of Mount Beacon since 1832. We love God, care for each other, and serve our community. The nearby Hudson gives life in the muddy mixing of different waters. Likewise, we experience Jesus Christ’s transforming presence when we authentically share joys and struggles of our diverse lives. Come as you are. We love music, food, and forming real relationships. Working together, and with partners in the community, we strive to help each other blossom into the fullness of who the Holy Spirit calls us to be. As changed people, we are called to change the world.
+> First Presbyterian Church is a community of deep roots. We have been worshiping God at the foot of Mount Beacon since 1832. We love God, care for each other, and serve our community. The nearby Hudson gives life in the muddy mixing of different waters. Likewise, we experience Jesus Christ’s transforming presence when we authentically share joys and struggles of our diverse lives. Come as you are. We love music, food, and forming real relationships. Working together, and with partners in the community, we strive to help each other blossom into the fullness of who the Holy Spirit calls us to be. As changed people, we are called to change the world.
 
 ## Contact Us
 
