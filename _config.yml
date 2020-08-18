@@ -24,6 +24,7 @@ defaults:
       layout: "page"
       show-avatar: true
       css: css/override.css
+      footer-extra: _includes/footer_extra.html
 
 # --- Logo --- #
 
