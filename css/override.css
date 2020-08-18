@@ -11,12 +11,17 @@
   color: white;
   background: #5cb85c;
   border-radius: 5px;
+  padding: 15px;
+  font-weight: bold;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   transition: background 300ms, color 300ms; 
 }
 .btn-green:hover {
   color: white;
   background: green;
+  text-decoration: none;
 }
+
 
 /* Donate button in navbar */
 .navbar-custom .navbar-nav li a[href*="donate"] {
