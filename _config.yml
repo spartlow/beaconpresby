@@ -38,7 +38,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/images/FPC_Header.png"
+title-img: "https://spartlow.github.io/beaconpresby/images/FPC_Header.png"
 
 
 # --- Footer options --- #
