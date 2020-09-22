@@ -21,7 +21,7 @@ If you'd like to help us out, please see our [Donation](donate.md) page.
 
 ## Contact Us
 
-* Email: [office@beaconpresby.com](mailto:office@beaconpresby.com)
+* Email: [office@beaconpresby.org](mailto:office@beaconpresby.org)
 * Phone: [845-831-5322](tel:845-831-5322)
 * Mail: 50 Liberty Street, Beacon, NY
 * Facebook: [facebook.com/FPCBNY](http://facebook.com/FPCBNY)
