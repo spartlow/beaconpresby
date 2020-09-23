@@ -6,6 +6,12 @@
   }
 }
 
+/* Larger sub-heading */
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  font-size: 2rem;
+}
+
 /* Buttons */
 .btn-green {
   color: white;
