@@ -2,7 +2,7 @@
 layout: home
 title: You are welcome here
 subtitle: First Presbyterian Church <em>of</em> Beacon
-cover-img: "images/FPC_Screenshots.jpg"
+cover-img: "images/FPC_Screenshots_dark.jpg"
 show-avatar: false
 ---
 
