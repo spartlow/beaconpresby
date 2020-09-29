@@ -6,6 +6,16 @@
   }
 }
 
+/* Allow full-width content. See https://css-tricks.com/full-width-containers-limited-width-parents/ */
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
 /* Larger sub-heading */
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
