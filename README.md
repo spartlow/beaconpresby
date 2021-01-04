@@ -1,2 +1,3 @@
 # beaconpresby
-Test site for FPC Beacon website
+
+Website for First Presbyterian Church of Beacon
