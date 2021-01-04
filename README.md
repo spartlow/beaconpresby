@@ -1,6 +1,7 @@
 # BeaconPresbyChurch.org
 
 This is the source for the First Presbyterian Church of Beacon website.
+To see the live site head over to [BeaconPresbyChurch.org](beaconpresbychurch.org).
 
 ## Editing a Page
 
@@ -9,6 +10,7 @@ This limits the output formatting but also helps keep a consistent look and feel
 See [Markdown Basics](#Markdown-Basics) below for tips.
 
 For small updates, it's easiest to find the page, click on the small pencil icon on the top left, and make the update.
+The page preview in GitHub should be good enough to see simple changes, but for anything beyond simple Markdown you'll have to view it on the site site.
 
 ## Bigger Changes
 
