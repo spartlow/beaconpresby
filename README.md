@@ -10,6 +10,13 @@ See [Markdown Basics](#Markdown-Basics) below for tips.
 
 For small updates, it's easiest to find the page, click on the small pencil icon on the top left, and make the update.
 
+## Bigger Changes
+
+For changes are are more than a quick change to a page (such as styling differences, whole new pages, etc), 
+it's best to fork this GitHub repository to create your own sandbox to make changes.
+Then you can create a pull request to make the changes live.
+
+Instructions for doing that are not covered here. Check with a site admin.
 
 ## Markdown Basics
 
